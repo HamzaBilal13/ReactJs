@@ -1,0 +1,23 @@
+img{
+    width:220px;
+    padding-left:50px;
+}
+p-5{
+    padding:5%;
+}
+p-45{
+    padding-left:45px;
+}
+.footer{
+    width:100%;
+    background-color :black;
+    padding:70px 70px;
+  
+  }
+  ul{
+    list-style:none;
+    padding-left:40px;
+  }
+  li{
+    line-height:30px;
+  }

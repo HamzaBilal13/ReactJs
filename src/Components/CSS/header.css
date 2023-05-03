@@ -1,0 +1,26 @@
+.banner-content{
+    display:flex;
+    align-items: center;
+    height:100vh;
+  }
+  .bannertext{
+    width:30%;
+  }
+  .bannertext h3{
+    font-size:30px;
+    color:white !important;
+  }
+  .bannertext h1{
+    font-size:60px;
+    line-height:60px;
+    font-weight: 900;
+    margin-top:20px;
+    color:white !important;
+  
+  }
+  .bannertext p{
+    font-size:18px;
+    font-weight:500;
+    color:white !important;
+    margin-top:20px;
+  }
